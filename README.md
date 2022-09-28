@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# My First React Application
+
+- [ ] modified the README
+- [ ] add the project as a git submodule to the server module
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
